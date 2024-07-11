@@ -1,0 +1,935 @@
+[
+  {  "id":111,
+    "data": [
+      {
+        "task": "Tech Arrival",
+        "chat": "",
+        "notes": "write something...",
+        "taskDuration": "5m"
+      },
+      {
+        "task": "GM Arrival",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "3m"
+      },
+      {
+        "task": "Inventory Check with Intake/Checkout Form",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "15m 22s"
+      },
+      {
+        "task": "Before Pictures of POS & KVM area",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      },
+      {
+        "task": "Contact WR for Check-in Verification",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      }
+    ]
+  },
+
+  {"id":112,
+    "data": [
+      {
+        "task": "hjdshc",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "9m"
+      },
+      {
+        "task": "sdhsdj jsdcskl",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "3m"
+      },
+      {
+        "task": "Inventory Check Form",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "15m 22s"
+      },
+      {
+        "task": "POS & KVM area",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      },
+      {
+        "task": "Verification",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      }
+    ]
+  },
+
+  {"id":113,
+    "data": [
+      {
+        "task": "Tech start",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      },
+      {
+        "task": "Cm Arrival",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "3m"
+      },
+      {
+        "task": "Check with Intake/Checkout Form",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "15m 22s"
+      },
+      {
+        "task": "Before Pictures of POSa",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      },
+      {
+        "task": " Check-in Verification",
+        "chat": "",
+        "notes": "",
+        "taskDuration": "5m"
+      }
+    ]
+  },
+  {  "id":111,
+  "data": [
+    {
+      "task": "Tech Arrival",
+      "chat": "",
+      "notes": "write something...",
+      "taskDuration": "5m"
+    },
+    {
+      "task": "GM Arrival",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "3m"
+    },
+    {
+      "task": "Inventory Check with Intake/Checkout Form",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "15m 22s"
+    },
+    {
+      "task": "Before Pictures of POS & KVM area",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    },
+    {
+      "task": "Contact WR for Check-in Verification",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    }
+  ]
+},
+
+{"id":112,
+  "data": [
+    {
+      "task": "hjdshc",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "9m"
+    },
+    {
+      "task": "sdhsdj jsdcskl",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "3m"
+    },
+    {
+      "task": "Inventory Check Form",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "15m 22s"
+    },
+    {
+      "task": "POS & KVM area",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    },
+    {
+      "task": "Verification",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    }
+  ]
+},
+
+{"id":113,
+  "data": [
+    {
+      "task": "Tech start",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    },
+    {
+      "task": "Cm Arrival",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "3m"
+    },
+    {
+      "task": "Check with Intake/Checkout Form",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "15m 22s"
+    },
+    {
+      "task": "Before Pictures of POSa",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    },
+    {
+      "task": " Check-in Verification",
+      "chat": "",
+      "notes": "",
+      "taskDuration": "5m"
+    }
+  ]
+}, {  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+{  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+}, {  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+{  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+}, {  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+}, {  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+}, {  "id":111,
+"data": [
+  {
+    "task": "Tech Arrival",
+    "chat": "",
+    "notes": "write something...",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "GM Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Contact WR for Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":112,
+"data": [
+  {
+    "task": "hjdshc",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "9m"
+  },
+  {
+    "task": "sdhsdj jsdcskl",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Inventory Check Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "POS & KVM area",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+},
+
+{"id":113,
+"data": [
+  {
+    "task": "Tech start",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": "Cm Arrival",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "3m"
+  },
+  {
+    "task": "Check with Intake/Checkout Form",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "15m 22s"
+  },
+  {
+    "task": "Before Pictures of POSa",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  },
+  {
+    "task": " Check-in Verification",
+    "chat": "",
+    "notes": "",
+    "taskDuration": "5m"
+  }
+]
+}
+
+]
+
